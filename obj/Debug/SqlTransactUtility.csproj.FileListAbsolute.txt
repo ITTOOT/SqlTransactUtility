@@ -1,0 +1,13 @@
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\SqlTransactUtility.exe.config
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\SqlTransactUtility.exe
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\SqlTransactUtility.pdb
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.csproj.AssemblyReference.cache
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.csproj.SuggestedBindingRedirects.cache
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.csproj.CoreCompileInputs.cache
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.exe
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.pdb
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\EntityFramework.dll
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\EntityFramework.xml
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Player_1\Desktop\WORK\SqlTransactUtility\obj\Debug\SqlTransactUtility.csproj.CopyComplete
